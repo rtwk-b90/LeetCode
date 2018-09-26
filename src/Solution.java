@@ -3,7 +3,9 @@
 
 // you can write to stdout for debugging purposes, e.g.
 // System.out.println("this is a debug message");
-
+/******Question : Given no of a and no of b, produce a string where no three a/b are together
+*aaaaa, bbbb=> aabaababb or any other sqnce, but aaabababb is not valid since three a are together
+*****/
 class Solution {
     public String solution(int A, int B) {
         // write your code in Java SE 8
